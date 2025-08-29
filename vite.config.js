@@ -7,7 +7,8 @@ export default defineConfig({
    server: {
     port: 5000,
     allowedHosts : [
-      "91eaa7424cc4.ngrok-free.app"
+      "91eaa7424cc4.ngrok-free.app",
+      'aihelper-production-0c01.up.railway.app',
     ]
   }
 })
